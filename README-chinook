@@ -1,3 +1,32 @@
+Project Date: set/2018 – README Date: jun/2019
+
+# Chinook-sql-project
+
+This project provides SQL queries on a dataset related to a music store and slides with graphics and statistics about the correspondent insights. 
+This analysis has been made for the Nanodegree Fundamentos de Análise de Dados (Data Analysis Fundamentals Nanodegree), proposed by Udacity Brasil in 2018. 
+
+## Dataset
+
+The dataset and the respective ERD have been provided by Udacity Brasil.
+
+## Dependencies
+
+The script has been written with SQLite. The graphics have been made in Excel and the slides in PowerPoint (with a private license).
+
+## Credits
+
+For this project, the following sources have been consulted: 
+
+https://www.sqlite.org/lang_datefunc.html
+https://pvanb.wordpress.com/2011/09/14/concatenate-in-sqlite/
+https://www.w3resource.com/sqlite/aggregate-functions-and-grouping-group_concat.php
+https://discussions.udacity.com/t/projeto-sql-date-trunc/811941
+https://social.msdn.microsoft.com/Forums/pt-BR/4e923377-4f3f-41a9-aa22-3565631bc98f/casas-decimais-no-select-do-sqlite?forum=vsvbasicpt
+http://rberaldo.com.br/problemas-com-codificacao-acentos-nao-interpretados/
+
+
+---------------------------------------
+
 Data do projeto: set/2018 Data do README: jun/2019
 
 # Chinook-sql-project
